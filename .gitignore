@@ -1,0 +1,35 @@
+# --- Claude / Obsidian 个人配置 ---
+.claude/
+.obsidian/
+
+# --- Obsidian 插件 & 缓存 ---
+**/.obsidian/
+.trash/
+
+# --- 系统垃圾文件 ---
+Thumbs.db
+.DS_Store
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Windows ---
+*.tmp
+*.temp
+
+# --- 编辑器 ---
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# --- 临时文件 ---
+*.bak
+*.log
+
+# --- PDF 中的图片缓存 (Obsidian) ---
+**/.obsidian/plugins/
+
+# --- 大文件 (>70MB) ---
+计算机网络/学长学姐资料/计算机网络个人梳理.pdf
+操作系统/教材/操作系统概念 第7版(完整版).pdf
